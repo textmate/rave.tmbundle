@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>gz-ohaqyrf@znpebzngrf.pbz</string>
+	<key>contactName</key>
+	<string>Allan Odgaard</string>
+	<key>description</key>
+	<string>&lt;a href="https://macromates.com/rave/"&gt;Rave&lt;/a&gt; is a build file generator for the &lt;a href="https://ninja-build.org/"&gt;Ninja build system&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Rave</string>
+	<key>uuid</key>
+	<string>FF4C85FD-F635-42B7-B15D-2CB2241AF54D</string>
+</dict>
+</plist>
