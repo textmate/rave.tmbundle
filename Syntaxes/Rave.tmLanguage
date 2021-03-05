@@ -14,7 +14,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(load|config|output|extend|arch|set|add|capture|prelude|require(_headers)?|headers|sources|(cxx_)?tests|prefix|files|copy|executable|frameworks|libraries|notarize|define)\b</string>
+			<string>\b(load|config|target|extend|arch|set|add|capture|prelude|require(_headers)?|headers|sources|(cxx_)?tests|prefix|files|copy|executable|frameworks|libraries|notarize|define)\b</string>
 			<key>name</key>
 			<string>keyword.control.rave</string>
 		</dict>
